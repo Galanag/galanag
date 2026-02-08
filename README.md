@@ -1,4 +1,4 @@
-## Hi there! I'm Galana Garoma👋
+<img width="500" height="500" alt="photo bg" src="https://github.com/user-attachments/assets/7cff371f-13b8-429e-8347-76127bab9d86" /> ## Hi there! I'm Galana Garoma👋
 
 
 Here are some idea about me:
