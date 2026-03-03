@@ -53,7 +53,7 @@
   <a href="https://t.me/experttobe">
     <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://www.linkedin.com/in/gelanagwamile">
+  <a href="https://www.linkedin.com/in/gelana-garoma/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="tel:+251999726524">
