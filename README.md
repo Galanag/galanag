@@ -1,4 +1,3 @@
-
  * A Dart script is used to generate a professional GitHub README.md content for my profile.
  
 # Hi there! I'm Galana 👋
@@ -40,9 +39,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Galanag=$username&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/Galanag=$username&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app" alt="Top Languages">
 </p>
 
 ### 📫 Reach me:
