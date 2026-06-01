@@ -14,11 +14,11 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **website development and design**.
-- 🌱 I’m currently learning **ODOO for ERP** and **Advanced Flutter** for mobile apps.
+- 🔭 I’m currently working on **Odoo Techno-Functional Consultant, website and Mobile App development and design**.
+- 🌱 I’m currently learning **ODOO 19 advanced development for ERP** and **Advanced Flutter** for mobile apps.
 - 👯 I’m looking to collaborate on developing websites, mobile apps, and implementing **ERP | ODOO**.
 - 🤔 I’m looking for help with **Integration of AI with Flutter | Dart Apps**.
-- 💬 Ask me about **UX/UI Design, website development, security, and ERP**.
+- 💬 Ask me about **UX/UI Design, website development, security, and ERP Implementation**.
 - 😄 **Pronouns:** Mr. He / Him
 - ⚡ **Fun fact:** Book Lover, Football enthusiast, and Nature lover.
 
