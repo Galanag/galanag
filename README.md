@@ -21,7 +21,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working as an **Odoo Techno‑Functional Consultant**, building **websites**, **mobile apps** (Flutter), and **ERP solutions**.
-- 🌱 I’m leveling up in **Odoo 19 advanced development** and **Flutter** (with Riverpod, Firebase).
+- 🌱 I’m leveling up in **Odoo 19 advanced development and Integration** and **Flutter** (with Riverpod, Firebase).
 - 👯 I’m open to collaborating on **ERP | Odoo implementations**, modern **websites**, and **cross‑platform mobile apps**.
 - 🤔 I’m seeking help with **AI integration into Flutter/Dart apps** – if you have ideas, let’s talk!
 - 💬 Ask me about **UX/UI design**, **WordPress security**, **Odoo custom modules**, or **full‑stack PHP**.
