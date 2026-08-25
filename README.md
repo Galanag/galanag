@@ -5,9 +5,9 @@
 
 <h1 align="center">Hi there! I'm Galana 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/user-attachments/assets/7cff371f-13b8-429e-8347-76127bab9d86" width="180" style="border-radius: 50%;" alt="Galana Garoma">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/ERP%20Developer-875A7B?style=for-the-badge&logo=odoo&logoColor=white" alt="ERP Odoo">
